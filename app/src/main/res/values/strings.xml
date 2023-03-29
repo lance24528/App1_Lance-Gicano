@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Application_1</string>
+    <string name="choose_material">Choose Material</string>
+    <string name="select">Select</string>
+    <string name="selection_1">Selection 1</string>
+    <string name="choose_material2">Choose Material</string>
+    <string name="select2">Select</string>
+    <string name="selection_2">Selection 2</string>
+    <string name="selection">=Selection 2</string>
+    <string name="result">Result</string>
+    <string name="confirm">Confirm</string>
+    <string name="selection1">=Selection1</string>
+    <string name="weapon_crafting_app">WEAPON CRAFTING APP</string>
+</resources>
